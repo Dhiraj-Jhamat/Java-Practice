@@ -43,3 +43,4 @@ public class HCF_LCM {
         }
     }
 }
+// good learnings
